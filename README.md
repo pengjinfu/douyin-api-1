@@ -1,6 +1,6 @@
 # douyin-api
 抖音Api
-热门视频、热门达人、热门商品等等
+### 热门视频、热门达人、热门商品等等
 联系vx：ifuxing123
 
 # 视频列表
@@ -18,8 +18,7 @@ GET http://api2.titodata.com/api/video/lists
 | create_time_start | 否 | int | 视频发布时间戳，开始时间 |
 | create_time_end | 否 | int | 视频发布时间戳，结束时间 |
 | author_id | 否 | int | 作者id |
-| sort_field | 否 | string | 排序字段，默认digg_count，可选项：
-digg_count、comment_count、share_count |
+| sort_field | 否 | string | 排序字段，默认digg_count，可选项：digg_count、comment_count、share_count |
 | sort | 否 | string | 排序，默认desc，可选项：desc、asc |
 | page | 否 | int | 默认第1页，最大100页 |
 | page_size | 否 | int | 默认20条，最大100条每页 |
