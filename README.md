@@ -20,7 +20,7 @@ GET http://api2.titodata.com/api/video/lists
 ### 请求参数
 | 名称 | 必填 | 类型 | 说明 |
 | :--- | :--- | :--- | :--- |
-| token | 是 | string | 需要查询的IP地址 |
+| token | 是 | string | 登录令牌 |
 | create_time_start | 否 | int | 视频发布时间戳，开始时间 |
 | create_time_end | 否 | int | 视频发布时间戳，结束时间 |
 | author_id | 否 | int | 作者id |
