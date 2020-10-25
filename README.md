@@ -1,6 +1,16 @@
+# 抖音视频Api
+
+
+
+<a name="58f0fb30"></a>
 # 抖音Api
-#### 抖音视频Api、抖音爬虫、抖音去水印、抖音视频下载、抖音视频解析
-https://www.titodata.com/
+
+<br />抖音视频Api、抖音爬虫、抖音去水印、抖音视频下载、抖音视频解析<br />
+
+> 更多信息请联系： [TiToData](https://www.titodata.com/about?from=gitee)
+
+
+
 ```
 海量数据采集
 每天为客户采集5亿条数据
@@ -8,16 +18,28 @@ https://www.titodata.com/
 联系vx：ifuxing123
 ```
 
+
+<a name="da066db2"></a>
 ## 接口包括以下模块
-### 热门视频、热门达人、热门商品等等
 
-## 视频列表
 
+<a name="bc125cd2"></a>
+### 搜索、热门视频、热门达人、热门商品、直播、带货、话题、榜单等等
+
+
+<a name="f5e7b3d2"></a>
+## 视频列表示例如下：
+更多接口文档请联系客服获取：[TiToData](https://www.titodata.com/about?from=gitee)
+<a name="251b56d4"></a>
 ### 请求地址
+
+
 ```
 GET http://api2.titodata.com/api/video/lists
 ```
 
+
+<a name="527466ff"></a>
 ### 请求参数
 | 名称 | 必填 | 类型 | 说明 |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +58,10 @@ GET http://api2.titodata.com/api/video/lists
 
 
 
+<a name="ca75cd09"></a>
 ### 返回参数
+
+
 ```json
 {
     "code": 200,
@@ -68,5 +93,3 @@ GET http://api2.titodata.com/api/video/lists
     }
 }
 ```
-
-
