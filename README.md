@@ -47,7 +47,7 @@
 - 视频带货商品列表
 - 视频评论的回复列表
 
-## [直播](https://github.com/Video-Hub/douyin-live)
+## <a href="https://github.com/Video-Hub/douyin-live" target="_blank">直播</a>
 
 - 直播间信息
 - 直播间 弹幕、关注、送礼、点赞 实时查询
